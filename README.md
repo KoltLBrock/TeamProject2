@@ -7,7 +7,7 @@ The app can also record the location with another button, for future use. The ap
 and past activities are kept to remind the user what they have done.
 
 Features  
-Button to Record Location
-Button to add a location remotely (potentially using map)
-Button to see weather for a location
-Calendar (days clickable), shows activity list for day (past and future)
+Button to Record Location  
+Button to add a location remotely (potentially using map)  
+Button to see weather for a location  
+Calendar (days clickable), shows activity list for day (past and future)   
