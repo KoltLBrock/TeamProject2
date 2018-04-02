@@ -2,5 +2,50 @@ package com.wtamu.scotty.kolton.cidm4385.ultimatelifeplanner;
 
 //this is the model
 
+import java.util.Date;
+import java.util.UUID;
+
 public class Plan {
+
+    private UUID mId;
+    private String mActivity;
+    private Date mDate;
+    private String mLocation;
+
+    public Plan() {
+        this(UUID.randomUUID());
+    }
+
+    public Plan(UUID id) {
+        mId = id;
+        mDate = new Date();
+    }
+
+    public UUID getId() {
+        return mId;
+    }
+
+    public String getActivity() {
+        return mActivity;
+    }
+
+    public void setActivity(String activity) {
+        mActivity = activity;
+    }
+
+    public Date getDate() {
+        return mDate;
+    }
+
+    public void setDate(Date date) {
+        mDate = date;
+    }
+
+    public String getLocation() {
+        return mLocation;
+    }
+
+    public void setLocation(String location) {
+        mLocation = location;
+    }
 }
