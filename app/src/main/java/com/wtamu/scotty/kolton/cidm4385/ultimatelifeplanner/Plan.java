@@ -2,14 +2,17 @@ package com.wtamu.scotty.kolton.cidm4385.ultimatelifeplanner;
 
 //this is the model
 
+import java.sql.Time;
 import java.util.Date;
 import java.util.UUID;
+import java.util.GregorianCalendar;
 
 public class Plan {
 
     private UUID mId;
     private String mActivity;
     private Date mDate;
+    private Time mTime;
     private String mLocation;
 
     public Plan() {

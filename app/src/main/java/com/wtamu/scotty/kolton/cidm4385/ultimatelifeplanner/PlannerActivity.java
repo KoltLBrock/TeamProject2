@@ -9,10 +9,11 @@ import android.widget.TextView;
 
 public class PlannerActivity extends AppCompatActivity {
 
-    private static final String TAG = "MainActivity";
+   // private static final String TAG = "MainActivity";
 
     private Button btn;
     private Button btn1;
+    private Button addAct;
 
 
 
@@ -21,7 +22,7 @@ public class PlannerActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_planner);
 
-        Intent incoming = getIntent();
+       // Intent incoming = getIntent();
 
     }
 }

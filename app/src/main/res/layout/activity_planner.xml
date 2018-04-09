@@ -9,6 +9,12 @@
         android:layout_height="wrap_content" />
 
     <Button
+        android:id="@+id/addAct"
+        android:layout_width="266dp"
+        android:layout_height="47dp"
+        android:text="Add Activity"
+        />
+    <Button
         android:id="@+id/btn"
         android:layout_width="266dp"
         android:layout_height="47dp"
