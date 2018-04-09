@@ -5,6 +5,8 @@ brings up a list of the activities that are planned for that day as well a butto
 activity, the user can specify which location they intend to go and the app will have the (yahoo weather api) weather for that day.
 The app can also record the location with another button, for future use. The app records all information in a database, 
 and past activities are kept to remind the user what they have done.
+DB Schema contains: PlanTable for contents of the day IE. plans and location
+DateTable for holding the date and time
 
 Features  
 Button to Record Location  
