@@ -31,7 +31,6 @@ public class Plan {
     public String getActivity() {
         return mActivity;
     }
-
     public void setActivity(String activity) {
         mActivity = activity;
     }
@@ -39,15 +38,16 @@ public class Plan {
     public Date getDate() {
         return mDate;
     }
-
     public void setDate(Date date) {
         mDate = date;
     }
 
+    public Time getTime() { return mTime; }
+    public void setTime(Time time) { mTime = time; }
+
     public String getLocation() {
         return mLocation;
     }
-
     public void setLocation(String location) {
         mLocation = location;
     }

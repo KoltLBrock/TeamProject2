@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\WorkFolder4385\XTeamProject2\CalendarApp.iml" filepath="C:\WorkFolder4385\XTeamProject2\CalendarApp.iml" />
-      <module fileurl="file://C:\CheckList1\CalendarApp\TeamProject2.iml" filepath="C:\CheckList1\CalendarApp\TeamProject2.iml" />
+      <module fileurl="file://C:/WorkFolder4385/XTeamProject2/CalendarApp.iml" filepath="C:/WorkFolder4385/XTeamProject2/CalendarApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeamProject2.iml" filepath="$PROJECT_DIR$/TeamProject2.iml" />
+      <module fileurl="file://C:/CheckList1/CalendarApp/TeamProject2.iml" filepath="C:/CheckList1/CalendarApp/TeamProject2.iml" />
       <module fileurl="file://$PROJECT_DIR$/XTeamProject2.iml" filepath="$PROJECT_DIR$/XTeamProject2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
