@@ -8,7 +8,8 @@ and past activities are kept to remind the user what they have done.
 DB Schema contains: PlanTable for contents of the day IE. plans and location
 DateTable for holding the date and time
 
-Features  
-Button to Record Location  
-Button to add a location remotely (potentially using map)  
-Calendar (days clickable), shows activity list for day (past and future)   
+Features:  
+Calendar (days clickable), shows activity list for day (past and future)  
+Ability to change above activity list, and set the time of day for activities  
+Detects location for current weather information (no input required)  
+Ability to set location for date for weather information for that day   
