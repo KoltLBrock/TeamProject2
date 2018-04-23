@@ -11,5 +11,4 @@ DateTable for holding the date and time
 Features  
 Button to Record Location  
 Button to add a location remotely (potentially using map)  
-Button to see weather for a location  
 Calendar (days clickable), shows activity list for day (past and future)   
