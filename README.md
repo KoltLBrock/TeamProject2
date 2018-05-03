@@ -5,7 +5,7 @@ brings up a list of the activities that are planned for that day as well a butto
 activity, the user can also specify the category of the activity. The app records all information in a database, 
 and past activities are kept to remind the user what they have done. The app decects the users location to show the users curremt locations weather.    
 DB Schema contains:  
-PlanTable for contents of the day IE. plans and category
+PlanTable for contents of the day IE. plans and category  
 DateTable for holding the date and time for calendar use    
 Features:  
 Calendar (days clickable), shows activity list for day (past and future)  
