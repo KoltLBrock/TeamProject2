@@ -11,4 +11,4 @@ Features:
 Calendar (days clickable), shows activity list for day (past and future)  
 Ability to change above activity list, and set the time of day for activities  
 Detects location for current weather information (no input required)  
-Ability to set location for weather information for that day   
+Ability to set location for weather information
